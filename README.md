@@ -44,8 +44,8 @@
     <a href="https://www.instagram.com/l3olvy/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="mailto:qhsl99@sookmyung.ac.kr">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="mailto:qhsl0615@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
     </a>
 </div><br>
     
