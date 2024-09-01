@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&text=&animation=twinkling&height=70)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ff889a&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Bon's+GitHub!😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ff889a&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+l3olvy's+GitHub!😁)](https://git.io/typing-svg)
  
 <div align="left">
  
@@ -11,7 +11,7 @@
 
 <!-- [![l3olvy's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l3olvy&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/l3olvy/github-readme-stats) -->
 
-[![Bon's GitHub stats](https://github-readme-stats.vercel.app/api?username=l3olvy&theme=onedark&hide_border=true&count_private=true)](https://github.com/l3olvy/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhsl99)](https://solved.ac/qhsl99)
+[![l3olvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=l3olvy&theme=onedark&hide_border=true&count_private=true)](https://github.com/l3olvy/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhsl99)](https://solved.ac/qhsl99)
  
 <br>
 
